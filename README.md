@@ -15,3 +15,7 @@ Refactored by: Sabrina Nawaz - www.github.com/sabrina-nawaz
 W3 Schools: https://www.w3schools.com/html/html5_semantic_elements.asp
 
 MDN Web Docs:  https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+
+## License
+
+Found at the bottom of the website. 
